@@ -1,0 +1,3 @@
+# Today i learn what github is. 
+What Git is.
+How README.md works 
